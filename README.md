@@ -8,7 +8,7 @@
 
 ## 내려받기
 
-**[Death_Mark_KOR_V1.0.zip](https://github.com/Shrimplord/Death_Mark_KOR/releases/download/v1.0/Death_Mark_KOR_V1.0.zip)** (약 110 MB) · [모든 버전](https://github.com/Shrimplord/Death_Mark_KOR/releases)
+**[Death_Mark_KOR_V1.1.zip](https://github.com/Shrimplord/Death_Mark_KOR/releases/download/v1.1/Death_Mark_KOR_V1.1.zip)** (약 110 MB) · [모든 버전](https://github.com/Shrimplord/Death_Mark_KOR/releases)
 
 | | |
 |---|---|
@@ -30,6 +30,16 @@
 자세한 내용은 zip 안의 `읽어주세요.txt` 에 있습니다.
 
 되돌리려면 스팀에서 "게임 파일 무결성 확인"을 실행하면 됩니다. 무결성 확인이나 게임 업데이트로 패치가 풀리면 위 절차를 처음부터 다시 해 주세요.
+
+## 변경 내역
+
+**1.1 (2026-09-26)**
+- 효과음·음성이 재생되지 않거나 다른 소리가 나던 오류 수정
+
+1.0을 적용했다면 새 zip을 같은 방법으로 풀고 `패치 적용.exe` 를 다시 실행하면 됩니다.
+(`bak\` 폴더를 지웠다면 스팀 무결성 확인 후 처음부터 적용해 주세요.)
+
+**1.0 (2026-09-20)** — 최초 배포
 
 ## 패치가 하는 일
 
